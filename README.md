@@ -1,2 +1,2 @@
 # HR-Employee-Distribution
-Analysis done in SQL, dasboard created using Power BI.
+Analysis done in MySQL, dasboard created using Power BI.
